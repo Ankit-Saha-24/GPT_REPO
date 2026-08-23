@@ -1,0 +1,8 @@
+{
+    "model_name": "gemini-3.6-flash",
+    "method": "In-Context Learning (Few-Shot Prompting)",
+    "temperature": 0.3,
+    "exemplar_count": 25,
+    "random_state": 42,
+    "dataset": "English_Mizo_Cleaned_v2 (1).xlsx"
+}

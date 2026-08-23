@@ -1,0 +1,82 @@
+
+You are an expert English to Mizo language translator. 
+Translate the provided English input into natural, grammatically correct Mizo.
+Do not output anything else except the Mizo translation.
+
+Here are reference translations to learn from:
+English: but mixed themselves with the nations ,  and learned their works .
+Mizo: Chûngho nên chuan an inneih pawlh ta a .  An tih dânte chu an zir ve ta zâwk a ni .
+
+English: as soon as you se her , capture and bring her safely to me .
+Mizo: In hmuh veleh ,   him dam takin ka bulah in rawn hruai tur a ni .
+
+English: then our speech and conduct will always be in contrast with the actions of those who choose to be ill - mannered .
+Mizo: Chutiang chuan ,  kan ṭawngkam leh nungchang chu nun dân mawi lo chhawm thlangtute lakah chuan a danglam reng ang a .
+
+English: he breaks open a shaft away from where people live .  they are forgotten by the foot .  they hang far from men ,  they swing back and forth .
+Mizo: Mite chên lohnaah khur an lai a ,    A chunga kalte pawhin an hre lo .  Mi hriatpui lohvah an inkhai a ,    an inthên vêl ṭhîn .
+
+English: they ,  being sent on their way by the assembly ,  passed through both phoenicia and samaria ,  declaring the conversion of the gentiles .  they caused great joy to all the brothers .
+Mizo: Tichuan ,    kohhran mite chuan an thlah a ,    Foiniki ram leh Samari ram an fang chhuak a ,    chûnga unau awmte hnênah chuan Jentail - ten Pathian thu an awih tâk thu chu an sawi zêl a ;  chu chuan a tilâwm hle hlawm a .
+
+English: when moses was done speaking with them ,  he put a veil on his face .
+Mizo: Mosian thu a sawi zawh chuan khuhnain a hmai chu a khuh a .
+
+English: ( 1 corinthians 14 : 25 )   have you taken a stand with those teaching all nations the truth ?
+Mizo: (1 Korinth 14:25) Chûng hnam zawng zawng thutak zirtîrtute zînga mi i ni tawh em ?
+
+English: but when two years were fulfilled ,  felix was succeeded by porcius festus ,  and desiring to gain favor with the jews ,  felix left paul in bonds .
+Mizo: Kum hnih a vei hnu chuan Felika chu Porkia Festan a thlâk a .  Felika chuan Juda - te tihlâwm a duh a ,    Paula chu lung inah a hnutchhiah ta a .
+
+English: forty long years i was grieved with that generation ,  and said ,   " it is a people that errs in their heart .  they have not known my ways .  "
+Mizo: Anni chu kum sawmli chhûng khân ka kham hle a ,    Mi luhlul tak an ni .  ‘ Ka duhzâwng pawh an hre thei lo ,   ’ ka ti ṭhîn a .
+
+English: the young lady was very beautiful to look at ,  a virgin ,  neither had any man known her .  she went down to the spring ,  filled her pitcher ,  and came up .
+Mizo: Chu nula chu Milkaii fanu a ni a ,    nula hmêlṭha tak ,    nula thianghlim ,    mipa la khawih loh a ni .  Tuikhurah chuan a chhuk a ,    a bêl chu a thâl khat a ,    a lo chhuak a .
+
+English: so the syrians were not willing to save the ammonites anymore .
+Mizo: Suria mite pawh chuan Amona thlahte chu an pui leh duh ta lo .
+
+English: then jeremiah said to them ,  you shall tell zedekiah  :
+Mizo: Jeremia chuan an hnênah ,    “Zedekia chu heti hian va hrilh rawh u .
+
+English: doctor, i don’t have any pain . but i am desparate .
+Mizo: Doctor ,  na engm , ah ka nei lo . Mahse ka bei hi a dawng em a ni .
+
+English: • why does jehovah treasure his longtime servants ?
+Mizo: • Engvângin nge Jehova’n hun rei tak chhûng a rawng lo bâwl tawhte chu a hlut ?
+
+English: printed sermons were syndicated in newspapers, and by 1913 these were in four languages in 3,000 newspapers in the united states, canada, and europe .
+Mizo: Sermon chhut chhuahte chu chanchinbu-ah a ruala chhuah a ni a ,  kum 1913-ah phei chuan United States te ,  Canada te ,  leh Europe tea chanchinbu sâng tam takah chuan ṭawng chi lia chhuah a ni tawh a .
+
+English: the letter was written in aramaic and translated .
+Mizo: An lehkha ziak chu Aramaik ṭawngin Aramaik hawrawpa ziak a ni .
+
+English: thus was it beautiful in its greatness ,  in the length of its branches ;  for its root was by many waters .
+Mizo: A buk chu a mawiin a zâr duai a ,    A zung chuan hnianghnârin tui a hmu .
+
+English: disdains the tillage of thy husbandry ?
+Mizo: Dalin i lakah a chhûl kharkhip ang ?
+
+English: 20 : 6 )   peter states that this “ new birth ” opens up to them “ a living hope , ” which he calls “ an incorruptible and undefiled and unfading inheritance ” reserved for them “ in the heavens . ”
+Mizo: 20:6) Petera chuan he “hrin leh” nihna hian “beiseina nung” neihna kawng a hawng a ,  chu chu “rochan chhe thei lo ,  bawlhhlawh kai lo ,  chuai thei lo ,  vâna” an tâna khêk angin a sawi a ni .
+
+English: ( genesis 10 : 9, 10 )   nimrod’s greatest city, babylon ( babel )  , became a center of demonistic religion .
+Mizo: (Genesis 10:9 ,  10 ,  NW) Nimroda khawpui ropui ber ,  Babulon (Babel) chu ramhuai sakhaw biakna hmunpui ber a lo ni ta a ni .
+
+English: oh sure
+Mizo: nia the reng mai
+
+English: the sons of jada , shammai's brother  :  jether and jonathan ; and jether died childless .
+Mizo: Samaia unaupa Jada fapate chu : Jethera leh Jonathana an ni a ; Jethera chu fa nei lovin a thi a .
+
+English: she is more precious than rubies .  none of the things you can desire are to be compared to her .
+Mizo: Lunghlu aiin a hlu zâwk a ,    A tluka hlu duhthu sâm tûr a awm lo ve .
+
+English: 14 some two years earlier, jesus had extended a similar invitation to four fishermen named peter, andrew, james, and john .
+Mizo: 14 A hma kum hnih vêl khân ,  Isua chuan chutiang bawk sâwmna chu sangha mantu pali ,  Petera ,  Andria ,  Jakoba ,  leh Johanate hnênah a tichhuak a .
+
+English: what is this we have done , that we have let israel go from serving us  ?
+Mizo: Israel mite kan rawngbâwl lai kan chhuahtîr ta ngawt mai hi ,   engtiziaa hetianga ti ta nge maw kan nih chu le  ?
+
+
